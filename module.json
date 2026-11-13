@@ -3,7 +3,7 @@
   "name": "audit-api",
   "display_name": "Audit Api",
   "description": "Audit api presentation adapter.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "presentation",
   "provider": "Liberu\\Foundation\\AuditApi\\AuditApiServiceProvider",
   "requires": {
